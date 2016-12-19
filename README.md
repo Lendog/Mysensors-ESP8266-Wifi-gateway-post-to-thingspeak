@@ -2,4 +2,4 @@
 
 My code for posting values to thingspeak
 
-Intneded to work with Mysensors libary 1.5.1
+Intended to work with Mysensors library 1.5.1
